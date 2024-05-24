@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+Code/Admin/client/node_modules
+Code/Admin/server/node_modules
+Code/Admin/server/config
+Code/People/client/node_modules
+Code/People/server/node_modules
+Code/People/server/config
+
+Admin/client/node_modules
+Admin/server/node_modules
+Admin/server/config
+People/client/node_modules
+People/server/node_modules
+People/server/config
+
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
